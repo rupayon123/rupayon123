@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/pokedex/header-info-0304.svg" alt="Rupayon's Pokedex blue profile info header" width="84%" align="middle" />
-  <img src="assets/pokedex/gible-card-0304.gif" alt="Gible No.0304" height="120" align="middle" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/header-info-0304.svg" alt="Rupayon's Pokedex blue profile info header" width="84%" align="middle" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/gible-card-0304.gif" alt="Gible No.0304" height="120" align="middle" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 # Rupayon Haldar
 
-<img width="45%" align="right" alt="Blue Pokédex data panel" src="assets/pokedex/info-panel.svg" />
+<img width="45%" align="right" alt="Blue Pokédex data panel" src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/info-panel.svg" />
 
 <p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Full-stack developer building ML projects, student tools, and hackathon systems.</p>
 <p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I work mostly with React, TypeScript, Node.js, Python, Arduino, and clean UI systems.</p>
