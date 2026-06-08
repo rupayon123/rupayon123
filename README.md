@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-pokedex-hero.png" alt="Rupayon's Pokedex profile banner with Pokemon team row" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-pokedex-hero.gif" alt="Rupayon's Pokedex profile banner with Pokemon team row" width="100%" />
 </div>
 
 # Rupayon Haldar
 
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> ML-leaning full-stack developer building student tools, hackathon systems, and hardware experiments.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Front end: React + TypeScript. Back end: Node + Python. Side quest: Arduino when the desk starts looking suspicious.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I like useful chaos: clean dashboards, automations, resume/job tools, Discord bots, and apps that solve the problem before the README gets dramatic.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Weakness: Cynthia. Strong against: messy workflows, vague forms, and anything that needs to be turned into a system.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> ML-leaning full-stack developer building student tools, hackathon systems, and useful little machines for messy workflows.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I turn "this is annoying" into dashboards, bots, automations, and apps that make the annoying part tap out first.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Main lane: ML + student software. Side quest: robotics/electronics when the hardware starts acting brave.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Weakness: Cynthia. Strong against: vague forms, clunky workflows, and projects that need to become real systems.</p>
 
 ## Current Quests
 
