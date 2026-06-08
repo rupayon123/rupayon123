@@ -2,31 +2,21 @@
   <img src="assets/pokedex/header.svg" alt="Rupayon's Pokedex blue profile header" width="100%" />
 </div>
 
-<div align="center">
-  <img src="assets/pokedex/pokeball.svg" alt="Pixel Pokéball" height="18" />
-  <strong>No.0304</strong>
-  <br />
-  <img src="assets/pokemon/gible.gif" alt="Gible sprite" height="76" />
-  <br />
-  <br />
-  <img src="assets/pokemon/giratina-altered.gif" alt="Giratina altered sprite" height="88" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="60" />
-  <img src="assets/pokemon/pikachu-f.gif" alt="Pikachu sprite" height="54" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/pokemon/giratina-origin.gif" alt="Giratina origin sprite" height="88" />
-  <br />
-  <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="68" />
-  <img src="assets/pokemon/rayquaza.gif" alt="Rayquaza sprite" height="78" />
-  <img src="assets/pokemon/metagross.gif" alt="Metagross sprite" height="58" />
-  <img src="assets/pokemon/regigigas.gif" alt="Regigigas sprite" height="66" />
-  <br />
-  <img src="assets/pokemon/luxray.gif" alt="Luxray sprite" height="58" />
-  <img src="assets/pokemon/glaceon.gif" alt="Glaceon sprite" height="54" />
-  <img src="assets/pokemon/bidoof.gif" alt="Bidoof sprite" height="46" />
-  <img src="assets/pokemon/staraptor.gif" alt="Staraptor sprite" height="58" />
-  <img src="assets/pokemon/lickilicky.gif" alt="Lickilicky sprite" height="64" />
-</div>
+<p align="center">
+  <img src="assets/pokemon/giratina-altered.gif" alt="Giratina altered sprite" height="40" />
+  <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="38" />
+  <img src="assets/pokemon/rayquaza.gif" alt="Rayquaza sprite" height="40" />
+  <img src="assets/pokemon/metagross.gif" alt="Metagross sprite" height="38" />
+  <img src="assets/pokemon/regigigas.gif" alt="Regigigas sprite" height="40" />
+  <img src="assets/pokemon/luxray.gif" alt="Luxray sprite" height="38" />
+  <img src="assets/pokemon/glaceon.gif" alt="Glaceon sprite" height="38" />
+  <img src="assets/pokemon/bidoof.gif" alt="Bidoof sprite" height="36" />
+  <img src="assets/pokemon/staraptor.gif" alt="Staraptor sprite" height="38" />
+  <img src="assets/pokemon/lickilicky.gif" alt="Lickilicky sprite" height="38" />
+  <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="40" />
+  <img src="assets/pokemon/pikachu-f.gif" alt="Pikachu sprite" height="38" />
+  <img src="assets/pokemon/giratina-origin.gif" alt="Giratina origin sprite" height="40" />
+</p>
 
 # Rupayon Haldar
 
