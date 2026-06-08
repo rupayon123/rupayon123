@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="360" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pokédex information panel</title>
+  <desc id="desc">A blue Pokédex-style profile information panel.</desc>
+  <rect width="560" height="360" fill="#1f2937"/>
+  <rect y="0" width="560" height="40" fill="#4d556f"/>
+  <text x="280" y="29" fill="#f8fbff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="22" font-weight="900" text-anchor="middle">DATA</text>
+  <rect x="12" y="52" width="536" height="296" fill="#bceeff" stroke="#30415f" stroke-width="6"/>
+  <g opacity="0.75" stroke="#2d7dbb" stroke-width="2">
+    <path d="M12 96H548M12 140H548M12 184H548M12 228H548M12 272H548M12 316H548"/>
+    <path d="M72 52V348M132 52V348M192 52V348M252 52V348M312 52V348M372 52V348M432 52V348M492 52V348"/>
+  </g>
+  <g font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="900">
+    <text x="34" y="90" fill="#2d3748" font-size="20">NAME</text>
+    <text x="178" y="90" fill="#2d3748" font-size="20">Rupayon Haldar</text>
+    <text x="34" y="134" fill="#2d3748" font-size="20">ROLE</text>
+    <text x="178" y="134" fill="#2d3748" font-size="20">Full-stack developer</text>
+    <text x="34" y="178" fill="#2d3748" font-size="20">FOCUS</text>
+    <text x="178" y="178" fill="#0b5ead" font-size="20">student tools</text>
+    <text x="34" y="222" fill="#2d3748" font-size="20">STACK</text>
+    <text x="178" y="222" fill="#0b5ead" font-size="20">React / Node / Python</text>
+    <text x="34" y="266" fill="#2d3748" font-size="20">SIDE</text>
+    <text x="178" y="266" fill="#0b5ead" font-size="20">Arduino / hardware labs</text>
+    <text x="34" y="310" fill="#2d3748" font-size="20">STYLE</text>
+    <text x="178" y="310" fill="#0b5ead" font-size="20">clean builds, useful tools</text>
+  </g>
+</svg>

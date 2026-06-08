@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="assets/blue-profile-header.svg" alt="Futuristic profile header for Rupayon Haldar" width="100%" />
+  <img src="assets/pokedex/header.svg" alt="Rupayon Haldar Pokédex-style profile header" width="100%" />
 </div>
 
 # Hi, I'm Rupayon Haldar, a developer from Canada.
 
 <p align="center">
+  <img src="assets/pokemon/snorlax.gif" alt="Snorlax sprite" height="76" />
+  &nbsp;&nbsp;&nbsp;
   <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="88" />
   &nbsp;&nbsp;&nbsp;
   <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="46" />
@@ -13,19 +15,19 @@
 
 ## About Me
 
-<img width="48%" align="right" alt="Futuristic information panel" src="assets/blue-info-panel.svg" />
+<img width="48%" align="right" alt="Pokédex-style information panel" src="assets/pokedex/info-panel.svg" />
 
-- I build full-stack web apps, student tools, and hardware learning projects.
-- I am currently working with React, TypeScript, Node.js, Python, and Arduino.
-- I like making projects that are useful, clean, and easy for people to understand.
-- I am interested in web development, automation, hardware, hackathon tooling, and education technology.
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I build full-stack web apps, student tools, and hardware learning projects.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I am currently working with React, TypeScript, Node.js, Python, and Arduino.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I like making projects that are useful, clean, and easy for people to understand.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I am interested in web development, automation, hardware, hackathon tooling, and education technology.</p>
 
 ## What I'm Working On
 
-- An Arduino block coding lab with Blockly and Arduino C++ generation.
-- A hackathon operations bot for onboarding, teams, queues, and organizer dashboards.
-- Resume, job tracking, and application tools for students.
-- Electronics schematics and hardware notes.
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> An Arduino block coding lab with Blockly and Arduino C++ generation.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> A hackathon operations bot for onboarding, teams, queues, and organizer dashboards.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Resume, job tracking, and application tools for students.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Electronics schematics and hardware notes.</p>
 
 ## Technologies
 
