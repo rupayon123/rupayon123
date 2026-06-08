@@ -15,7 +15,7 @@
 ## Trainer Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-stats.png?v=pokedex-stats-v3" alt="Rupayon's Pokedex themed GitHub stats and most used languages" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-stats-clean.png" alt="Rupayon's Pokedex themed GitHub stats and most used languages" width="100%" />
 </div>
 
 ## Current Quests
