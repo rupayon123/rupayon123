@@ -1,47 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Rupayon Pokédex profile header</title>
-  <desc id="desc">A blue Pokédex-style header for Rupayon Haldar's GitHub profile.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Rupayon Haldar Pokédex profile header</title>
+  <desc id="desc">A clean blue Pokédex-style GitHub profile header.</desc>
   <defs>
     <linearGradient id="screen" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0" stop-color="#bceeff"/>
-      <stop offset="1" stop-color="#7dc9f4"/>
+      <stop offset="0" stop-color="#d8f8ff"/>
+      <stop offset="1" stop-color="#8ddcff"/>
     </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#4bdcff"/>
+      <stop offset="1" stop-color="#2f8cff"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="0" flood-color="#1a2135" flood-opacity="0.55"/>
+    </filter>
   </defs>
-  <rect width="1200" height="300" fill="#1f2937"/>
-  <rect y="0" width="1200" height="48" fill="#4d556f"/>
-  <text x="600" y="35" fill="#f8fbff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="28" font-weight="900" text-anchor="middle">Rupayon Pokédex</text>
-  <rect x="20" y="58" width="1160" height="222" fill="url(#screen)" stroke="#30415f" stroke-width="8"/>
-  <g opacity="0.75" stroke="#2d7dbb" stroke-width="3">
-    <path d="M20 98H1180M20 138H1180M20 178H1180M20 218H1180M20 258H1180"/>
-    <path d="M70 58V280M140 58V280M210 58V280M280 58V280M350 58V280M420 58V280M490 58V280M560 58V280M630 58V280M700 58V280M770 58V280M840 58V280M910 58V280M980 58V280M1050 58V280M1120 58V280"/>
-  </g>
+
+  <rect width="1200" height="330" fill="#202638"/>
+  <rect y="0" width="1200" height="52" fill="#545a75"/>
   <g shape-rendering="crispEdges">
-    <rect x="50" y="78" width="448" height="64" fill="#3e4b72"/>
-    <rect x="66" y="90" width="416" height="40" fill="#d7f6ff" stroke="#5ebeed" stroke-width="4"/>
-    <rect x="518" y="78" width="414" height="64" fill="#3e4b72"/>
-    <rect x="534" y="90" width="382" height="40" fill="#d7f6ff" stroke="#5ebeed" stroke-width="4"/>
-    <rect x="952" y="78" width="130" height="64" fill="#3e4b72"/>
-    <rect x="1088" y="78" width="54" height="64" fill="#d7f6ff" stroke="#3e4b72" stroke-width="6"/>
+    <rect x="0" y="52" width="1200" height="8" fill="#9de9ff"/>
+    <rect x="0" y="60" width="1200" height="6" fill="#2f8cff"/>
   </g>
+
+  <text x="600" y="37" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="30" font-weight="900" text-anchor="middle">Rupayon Pokédex</text>
+
+  <rect x="34" y="82" width="1128" height="246" fill="#33415f" filter="url(#shadow)"/>
+  <rect x="48" y="96" width="1100" height="218" fill="url(#screen)" stroke="#29354f" stroke-width="8"/>
+
+  <g opacity="0.22" stroke="#247abc" stroke-width="3">
+    <path d="M48 148H1148M48 202H1148M48 256H1148"/>
+    <path d="M116 96V314M184 96V314M252 96V314M320 96V314M388 96V314M456 96V314M524 96V314M592 96V314M660 96V314M728 96V314M796 96V314M864 96V314M932 96V314M1000 96V314M1068 96V314"/>
+  </g>
+
+  <g shape-rendering="crispEdges">
+    <rect x="76" y="120" width="462" height="64" fill="#3c4669"/>
+    <rect x="92" y="132" width="430" height="40" fill="#eafcff" stroke="#6ecfff" stroke-width="4"/>
+    <rect x="76" y="210" width="462" height="74" fill="#eafcff" stroke="#3c4669" stroke-width="6"/>
+
+    <rect x="588" y="120" width="322" height="64" fill="#3c4669"/>
+    <rect x="604" y="132" width="290" height="40" fill="#eafcff" stroke="#6ecfff" stroke-width="4"/>
+    <rect x="588" y="210" width="322" height="74" fill="#eafcff" stroke="#3c4669" stroke-width="6"/>
+
+    <rect x="958" y="118" width="112" height="58" fill="#3c4669"/>
+    <rect x="1078" y="118" width="64" height="58" fill="#d9f8ff" stroke="#3c4669" stroke-width="6"/>
+    <rect x="958" y="198" width="184" height="86" fill="#f8fcff" stroke="#3c4669" stroke-width="6"/>
+    <rect x="984" y="222" width="118" height="14" fill="#2f8cff"/>
+    <rect x="984" y="248" width="82" height="14" fill="#46d9f0"/>
+  </g>
+
   <g font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="900">
-    <text x="92" y="118" fill="#2d3748" font-size="28">Rupayon Haldar</text>
-    <text x="566" y="118" fill="#2d3748" font-size="24">Full-stack developer</text>
-    <text x="984" y="118" fill="#2d3748" font-size="22">No.123</text>
+    <text x="112" y="161" fill="#2d3748" font-size="28">Rupayon Haldar</text>
+    <text x="620" y="161" fill="#2d3748" font-size="25">Full-stack Developer</text>
+    <text x="980" y="153" fill="#111827" font-size="21">No.0304</text>
+    <text x="112" y="240" fill="#2d3748" font-size="22">TYPE</text>
+    <text x="214" y="240" fill="#0b61b2" font-size="22">React / TS / Python</text>
+    <text x="112" y="270" fill="#2d3748" font-size="22">FOCUS</text>
+    <text x="214" y="270" fill="#0b61b2" font-size="22">student tools + hardware</text>
+    <text x="620" y="240" fill="#2d3748" font-size="22">SEEN</text>
+    <text x="718" y="240" fill="#0b61b2" font-size="22">web apps</text>
+    <text x="620" y="270" fill="#2d3748" font-size="22">OWNED</text>
+    <text x="718" y="270" fill="#0b61b2" font-size="22">useful builds</text>
   </g>
-  <g font-family="Monaco, Consolas, 'Courier New', monospace" font-size="19" font-weight="800">
-    <text x="74" y="178" fill="#2d3748">Seen:</text>
-    <text x="176" y="178" fill="#2d3748">web apps</text>
-    <text x="74" y="216" fill="#2d3748">Owned:</text>
-    <text x="176" y="216" fill="#2d3748">student tools</text>
-    <text x="520" y="178" fill="#2d3748">Types:</text>
-    <text x="636" y="178" fill="#0b5ead">React / TypeScript / Python</text>
-    <text x="520" y="216" fill="#2d3748">Focus:</text>
-    <text x="636" y="216" fill="#0b5ead">hardware labs / ed-tech</text>
-  </g>
-  <g transform="translate(1006 160)" shape-rendering="crispEdges">
-    <rect x="0" y="0" width="120" height="92" fill="#f8fbff" stroke="#3e4b72" stroke-width="6"/>
-    <rect x="16" y="18" width="88" height="14" fill="#2f8cff"/>
-    <rect x="16" y="42" width="66" height="14" fill="#46e6ff"/>
-    <rect x="16" y="66" width="96" height="14" fill="#1a73ff"/>
+
+  <g transform="translate(1098 136)" shape-rendering="crispEdges">
+    <rect x="0" y="0" width="8" height="8" fill="#2f8cff"/>
+    <rect x="8" y="0" width="8" height="8" fill="#2f8cff"/>
+    <rect x="16" y="8" width="8" height="8" fill="#2f8cff"/>
+    <rect x="8" y="16" width="8" height="8" fill="#2f8cff"/>
+    <rect x="0" y="16" width="8" height="8" fill="#2f8cff"/>
   </g>
 </svg>
