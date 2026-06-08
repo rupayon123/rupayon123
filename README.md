@@ -45,7 +45,7 @@
 
 | Repository | Entry |
 | --- | --- |
-| [arduino-blocks-lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
 | [PipHackLup](https://github.com/rupayon123/PipHackLup) | Hackathon operations Discord bot for onboarding, team management, queues, moderation, and organizer dashboards. |
+| [arduino-blocks-lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
+| [gta-free-stem-opportunities](https://github.com/rupayon123/gta-free-stem-opportunities) | Free STEM opportunity finder for GTA families, students, educators, and community hosts. |
 | [all-in-one-resume-builder-job-assist-applier](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
-| [Schematics](https://github.com/rupayon123/Schematics) | Public workspace for electronics schematics, hardware notes, and project diagrams. |
