@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pokedex/header-gible-0304.svg" alt="Rupayon's Pokedex blue profile header" width="100%" />
+  <img src="assets/pokedex/header-gible-external-0304.svg" alt="Rupayon's Pokedex blue profile header" width="100%" />
 </div>
 
 <p align="center">
