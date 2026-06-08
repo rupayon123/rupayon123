@@ -4,10 +4,19 @@
 
 # Rupayon Haldar
 
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> ML-leaning full-stack developer building student tools, hackathon systems, and useful little machines for messy workflows.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I turn "this is annoying" into dashboards, bots, automations, and apps that make the annoying part tap out first.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Main lane: ML + student software. Side quest: robotics/electronics when the hardware starts acting brave.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Weakness: Cynthia. Strong against: vague forms, clunky workflows, and projects that need to become real systems.</p>
+## Trainer Notes
+
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I build ML-leaning student tools, hackathon systems, and useful little machines for messy workflows.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Currently leveling up full-stack shipping: React + TypeScript up front, Node + Python in the engine room.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I like projects that make annoying tasks tap out first: dashboards, bots, automations, and practical student software.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Ask me about ML tools, Discord bots, Arduino experiments, resume/job apps, or why the UI is doing side quests.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Looking to collaborate on student-first tools, accessible STEM projects, and open-source builds people actually use.</p>
+
+## Trainer Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-stats.png" alt="Rupayon's Pokedex themed GitHub stats and most used languages" width="100%" />
+</div>
 
 ## Current Quests
 
