@@ -29,13 +29,10 @@
 
 ## Pokédex Box
 
-| Dialga | Rayquaza | Metagross | Regigigas |
-| --- | --- | --- | --- |
-| <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="72" /> | <img src="assets/pokemon/rayquaza.gif" alt="Rayquaza sprite" height="78" /> | <img src="assets/pokemon/metagross.gif" alt="Metagross sprite" height="64" /> | <img src="assets/pokemon/regigigas.gif" alt="Regigigas sprite" height="72" /> |
-| Luxray | Glaceon | Staraptor | Lickilicky |
-| <img src="assets/pokemon/luxray.gif" alt="Luxray sprite" height="64" /> | <img src="assets/pokemon/glaceon.gif" alt="Glaceon sprite" height="60" /> | <img src="assets/pokemon/staraptor.gif" alt="Staraptor sprite" height="66" /> | <img src="assets/pokemon/lickilicky.gif" alt="Lickilicky sprite" height="72" /> |
-| Bidoof | Gible | Piplup | Pikachu |
-| <img src="assets/pokemon/bidoof.gif" alt="Bidoof sprite" height="52" /> | <img src="assets/pokemon/gible.gif" alt="Gible sprite" height="60" /> | <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="58" /> | <img src="assets/pokemon/pikachu-f.gif" alt="Pikachu sprite" height="54" /> |
+| <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="72" /><br />Dialga | <img src="assets/pokemon/rayquaza.gif" alt="Rayquaza sprite" height="78" /><br />Rayquaza | <img src="assets/pokemon/metagross.gif" alt="Metagross sprite" height="64" /><br />Metagross | <img src="assets/pokemon/regigigas.gif" alt="Regigigas sprite" height="72" /><br />Regigigas |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/pokemon/luxray.gif" alt="Luxray sprite" height="64" /><br />Luxray | <img src="assets/pokemon/glaceon.gif" alt="Glaceon sprite" height="60" /><br />Glaceon | <img src="assets/pokemon/staraptor.gif" alt="Staraptor sprite" height="66" /><br />Staraptor | <img src="assets/pokemon/lickilicky.gif" alt="Lickilicky sprite" height="72" /><br />Lickilicky |
+| <img src="assets/pokemon/bidoof.gif" alt="Bidoof sprite" height="52" /><br />Bidoof | <img src="assets/pokemon/gible.gif" alt="Gible sprite" height="60" /><br />Gible | <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="58" /><br />Piplup | <img src="assets/pokemon/pikachu-f.gif" alt="Pikachu sprite" height="54" /><br />Pikachu |
 
 ## Current Quests
 
