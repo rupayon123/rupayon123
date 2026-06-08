@@ -4,6 +4,13 @@
 
 # Hi, I'm Rupayon Haldar, a developer from Canada.
 
+<p align="center">
+  <img src="assets/pokemon/dialga.gif" alt="Dialga sprite" height="88" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/pokemon/piplup.gif" alt="Piplup sprite" height="46" />
+  <img src="assets/pokemon/pikachu-f.gif" alt="Pikachu sprite" height="46" />
+</p>
+
 ## About Me
 
 <img width="48%" align="right" alt="Futuristic information panel" src="assets/blue-info-panel.svg" />
