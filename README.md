@@ -1,22 +1,17 @@
 <div align="center">
-  <img src="assets/blue-profile-header.svg" alt="Blue futuristic profile header for Rupayon Haldar" width="100%" />
+  <img src="assets/blue-profile-header.svg" alt="Futuristic profile header for Rupayon Haldar" width="100%" />
 </div>
 
 # Hi, I'm Rupayon Haldar, a developer from Canada.
 
-[![Followers](https://img.shields.io/github/followers/rupayon123?style=flat-square&label=Followers&labelColor=0b1220&color=2f8cff)](https://github.com/rupayon123?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-rupayon123-46e6ff?style=flat-square&labelColor=0b1220)](https://github.com/rupayon123?tab=repositories)
-[![Profile](https://img.shields.io/badge/Profile-blue%20theme-1a73ff?style=flat-square&labelColor=0b1220)](https://github.com/rupayon123)
-
 ## About Me
 
-<img width="48%" align="right" alt="Blue futuristic information panel" src="assets/blue-info-panel.svg" />
+<img width="48%" align="right" alt="Futuristic information panel" src="assets/blue-info-panel.svg" />
 
 - I build full-stack web apps, student tools, and hardware learning projects.
 - I am currently working with React, TypeScript, Node.js, Python, and Arduino.
 - I like making projects that are useful, clean, and easy for people to understand.
 - I am interested in web development, automation, hardware, hackathon tooling, and education technology.
-- My favorite color is blue, so this profile is built around a blue futuristic interface style.
 
 ## What I'm Working On
 
