@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Rupayon Haldar Pokédex profile header</title>
-  <desc id="desc">A clean blue Pokédex-style GitHub profile header with readable text.</desc>
+  <title id="title">Rupayon's Pokedex profile header</title>
+  <desc id="desc">A clean blue Pokedex-style GitHub profile header with readable profile stats.</desc>
   <defs>
     <linearGradient id="screen" x1="0" x2="0" y1="0" y2="1">
       <stop offset="0" stop-color="#e2fbff"/>
@@ -17,27 +17,31 @@
     <rect x="48" y="92" width="1100" height="146" fill="url(#screen)" stroke="#26324d" stroke-width="8"/>
   </g>
 
-  <text x="600" y="36" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="30" font-weight="900" text-anchor="middle">Rupayon Pokédex</text>
+  <text x="600" y="36" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="30" font-weight="900" text-anchor="middle">Rupayon's Pokedex</text>
 
   <g shape-rendering="crispEdges">
-    <rect x="82" y="116" width="452" height="58" fill="#3d4668"/>
-    <rect x="96" y="128" width="424" height="34" fill="#f0fcff" stroke="#6ccff6" stroke-width="4"/>
-    <rect x="82" y="188" width="452" height="42" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
+    <rect x="76" y="110" width="500" height="58" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
+    <rect x="76" y="178" width="500" height="58" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
+    <rect x="600" y="110" width="448" height="58" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
+    <rect x="600" y="178" width="448" height="58" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
 
-    <rect x="590" y="116" width="426" height="58" fill="#3d4668"/>
-    <rect x="604" y="128" width="398" height="34" fill="#f0fcff" stroke="#6ccff6" stroke-width="4"/>
-    <rect x="590" y="188" width="426" height="42" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
-
-    <rect x="1040" y="116" width="96" height="114" fill="#f8fcff" stroke="#3d4668" stroke-width="6"/>
-    <rect x="1062" y="140" width="42" height="10" fill="#2f8cff"/>
-    <rect x="1062" y="164" width="56" height="10" fill="#46d9f0"/>
-    <rect x="1062" y="188" width="36" height="10" fill="#1f6fff"/>
+    <rect x="1070" y="110" width="74" height="126" fill="#f8fcff" stroke="#3d4668" stroke-width="6"/>
+    <rect x="1088" y="136" width="36" height="9" fill="#2f8cff"/>
+    <rect x="1088" y="160" width="44" height="9" fill="#46d9f0"/>
+    <rect x="1088" y="184" width="28" height="9" fill="#1f6fff"/>
   </g>
 
   <g font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="900">
-    <text x="116" y="154" fill="#26324d" font-size="27">Rupayon Haldar</text>
-    <text x="624" y="154" fill="#26324d" font-size="25">Full-stack Dev</text>
-    <text x="116" y="216" fill="#26324d" font-size="21">React / TS / Python</text>
-    <text x="624" y="216" fill="#0b61b2" font-size="21">Student tools + hardware</text>
+    <text x="106" y="145" fill="#26324d" font-size="20">FRONT END</text>
+    <text x="252" y="145" fill="#0b61b2" font-size="21">React + TypeScript</text>
+
+    <text x="106" y="213" fill="#26324d" font-size="20">BACK END</text>
+    <text x="252" y="213" fill="#0b61b2" font-size="21">Node + Python</text>
+
+    <text x="630" y="145" fill="#26324d" font-size="20">BUILDS</text>
+    <text x="758" y="145" fill="#0b61b2" font-size="21">ML + student tools</text>
+
+    <text x="630" y="213" fill="#26324d" font-size="20">WEAKNESS</text>
+    <text x="758" y="213" fill="#0b61b2" font-size="21">Cynthia</text>
   </g>
 </svg>

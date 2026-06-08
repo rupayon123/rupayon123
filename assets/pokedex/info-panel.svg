@@ -27,16 +27,16 @@
     <text x="72" y="116" fill="#ffffff" font-size="21">ENTRY</text>
     <text x="264" y="116" fill="#26324d" font-size="20">Rupayon Haldar</text>
 
-    <text x="64" y="172" fill="#26324d" font-size="18">ROLE</text>
-    <text x="188" y="172" fill="#0b61b2" font-size="18">Full-stack developer</text>
+    <text x="64" y="172" fill="#26324d" font-size="18">FRONT</text>
+    <text x="188" y="172" fill="#0b61b2" font-size="18">React + TypeScript</text>
 
-    <text x="64" y="218" fill="#26324d" font-size="18">BUILDS</text>
-    <text x="188" y="218" fill="#0b61b2" font-size="18">student tools, dashboards</text>
+    <text x="64" y="218" fill="#26324d" font-size="18">BACK</text>
+    <text x="188" y="218" fill="#0b61b2" font-size="18">Node + Python</text>
 
-    <text x="64" y="264" fill="#26324d" font-size="18">STACK</text>
-    <text x="188" y="264" fill="#0b61b2" font-size="18">React, TS, Node, Python</text>
+    <text x="64" y="264" fill="#26324d" font-size="18">BUILDS</text>
+    <text x="188" y="264" fill="#0b61b2" font-size="18">ML + student tools</text>
 
-    <text x="64" y="310" fill="#26324d" font-size="18">SIDE</text>
-    <text x="188" y="310" fill="#0b61b2" font-size="18">Arduino + hardware labs</text>
+    <text x="64" y="310" fill="#26324d" font-size="18">WEAK</text>
+    <text x="188" y="310" fill="#0b61b2" font-size="18">Cynthia</text>
   </g>
 </svg>

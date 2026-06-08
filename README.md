@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pokedex/header.svg" alt="Rupayon Haldar blue Pokédex profile header" width="100%" />
+  <img src="assets/pokedex/header.svg" alt="Rupayon's Pokedex blue profile header" width="100%" />
 </div>
 
 <div align="center">
@@ -32,10 +32,10 @@
 
 <img width="45%" align="right" alt="Blue Pokédex data panel" src="assets/pokedex/info-panel.svg" />
 
-<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Full-stack developer building student tools, hardware labs, and hackathon systems.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Full-stack developer building ML projects, student tools, and hackathon systems.</p>
 <p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I work mostly with React, TypeScript, Node.js, Python, Arduino, and clean UI systems.</p>
 <p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> I like projects that feel useful fast: dashboards, automations, learning tools, and practical developer workflows.</p>
-<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Current focus: better student software, robotics/electronics experiments, and hackathon operations tooling.</p>
+<p><img src="assets/pokedex/pokeball.svg" alt="" height="16" /> Current focus: ML, student software, robotics/electronics experiments, and hackathon operations tooling.</p>
 
 ## Current Quests
 
