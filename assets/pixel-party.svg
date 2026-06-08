@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">8-bit starter energy</title>
+  <desc id="desc">A retro panel showing electric, fire, water, and leaf coding types.</desc>
+  <rect width="1200" height="190" fill="#1b1f23"/>
+  <rect x="18" y="18" width="1164" height="154" fill="#101820" stroke="#ffcb05" stroke-width="6" shape-rendering="crispEdges"/>
+  <g font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="900">
+    <text x="74" y="56" fill="#ffffff" font-size="28">STARTER ENERGY</text>
+    <text x="74" y="84" fill="#ffcb05" font-size="16">choose your move, then ship the prototype</text>
+  </g>
+  <g shape-rendering="crispEdges" font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="800">
+    <rect x="90" y="108" width="270" height="48" fill="#2d333b"/>
+    <rect x="112" y="114" width="92" height="28" fill="#ffcb05"/>
+    <path d="M146 98h24v26h22l-48 54v-38h-22z" fill="#1b1f23"/>
+    <text x="220" y="138" fill="#ffffff" font-size="18">ELECTRIC UI</text>
+
+    <rect x="465" y="108" width="270" height="48" fill="#2d333b"/>
+    <rect x="487" y="114" width="92" height="28" fill="#e3350d"/>
+    <path d="M536 96l26 36-14 44h-46l-14-44z" fill="#ffcb05"/>
+    <rect x="524" y="132" width="22" height="36" fill="#e3350d"/>
+    <text x="600" y="138" fill="#ffffff" font-size="18">FIRE DEBUGS</text>
+
+    <rect x="840" y="108" width="270" height="48" fill="#2d333b"/>
+    <rect x="862" y="114" width="92" height="28" fill="#2a75bb"/>
+    <path d="M910 96c26 30 36 48 36 68 0 26-16 42-36 42s-36-16-36-42c0-20 10-38 36-68z" fill="#38bdf8"/>
+    <text x="975" y="138" fill="#ffffff" font-size="18">WATER FLOW</text>
+  </g>
+</svg>
