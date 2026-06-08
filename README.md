@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/pokedex/header-gible-0304.gif" alt="Rupayon's Pokedex blue profile header" width="100%" />
+  <img src="assets/pokedex/header-info-0304.svg" alt="Rupayon's Pokedex blue profile info header" width="84%" align="middle" />
+  <img src="assets/pokedex/gible-card-0304.gif" alt="Gible No.0304" height="120" align="middle" />
 </div>
 
 <p align="center">

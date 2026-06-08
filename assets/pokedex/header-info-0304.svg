@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="225" viewBox="0 0 1000 225" role="img" aria-labelledby="title desc">
+  <title id="title">Rupayon's Pokedex profile info header</title>
+  <desc id="desc">Blue pixel Pokedex profile header with frontend, backend, build, and weakness fields.</desc>
+  <rect width="1000" height="225" fill="#0d1117"/>
+  <rect width="1000" height="43" fill="#5e6584"/>
+  <rect y="43" width="1000" height="5" fill="#55d7ff"/>
+  <text x="500" y="30" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="26" font-weight="900" text-anchor="middle">Rupayon's Pokedex</text>
+
+  <rect x="28" y="65" width="944" height="152" fill="#24304d"/>
+  <rect x="36" y="73" width="928" height="136" fill="#344263"/>
+  <rect x="43" y="80" width="914" height="122" fill="#c9f5ff"/>
+
+  <g font-family="Monaco, Consolas, 'Courier New', monospace">
+    <rect x="62" y="92" width="410" height="46" fill="#eefcff" stroke="#344263" stroke-width="4"/>
+    <rect x="62" y="150" width="410" height="46" fill="#eefcff" stroke="#344263" stroke-width="4"/>
+    <rect x="500" y="92" width="410" height="46" fill="#eefcff" stroke="#344263" stroke-width="4"/>
+    <rect x="500" y="150" width="410" height="46" fill="#eefcff" stroke="#344263" stroke-width="4"/>
+
+    <text x="90" y="123" fill="#26324d" font-size="15">FRONT END</text>
+    <text x="235" y="123" fill="#005eb8" font-size="17">React + TS</text>
+
+    <text x="90" y="181" fill="#26324d" font-size="15">BACK END</text>
+    <text x="235" y="181" fill="#005eb8" font-size="17">Node + Python</text>
+
+    <text x="528" y="123" fill="#26324d" font-size="15">BUILDS</text>
+    <text x="660" y="123" fill="#005eb8" font-size="17">ML + student tools</text>
+
+    <text x="528" y="181" fill="#26324d" font-size="15">WEAKNESS</text>
+    <text x="660" y="181" fill="#005eb8" font-size="17">Cynthia</text>
+  </g>
+</svg>
