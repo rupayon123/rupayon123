@@ -1,72 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Rupayon Haldar Pokédex profile header</title>
-  <desc id="desc">A clean blue Pokédex-style GitHub profile header.</desc>
+  <desc id="desc">A clean blue Pokédex-style GitHub profile header with readable text.</desc>
   <defs>
     <linearGradient id="screen" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0" stop-color="#d8f8ff"/>
-      <stop offset="1" stop-color="#8ddcff"/>
+      <stop offset="0" stop-color="#e2fbff"/>
+      <stop offset="1" stop-color="#8ee2ff"/>
     </linearGradient>
-    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#4bdcff"/>
-      <stop offset="1" stop-color="#2f8cff"/>
-    </linearGradient>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="8" stdDeviation="0" flood-color="#1a2135" flood-opacity="0.55"/>
-    </filter>
   </defs>
 
-  <rect width="1200" height="330" fill="#202638"/>
-  <rect y="0" width="1200" height="52" fill="#545a75"/>
+  <rect width="1200" height="260" fill="#111827"/>
+  <rect y="0" width="1200" height="50" fill="#555b77"/>
   <g shape-rendering="crispEdges">
-    <rect x="0" y="52" width="1200" height="8" fill="#9de9ff"/>
-    <rect x="0" y="60" width="1200" height="6" fill="#2f8cff"/>
+    <rect y="50" width="1200" height="6" fill="#8fe9ff"/>
+    <rect y="56" width="1200" height="5" fill="#2f8cff"/>
+    <rect x="34" y="78" width="1128" height="174" fill="#303b58"/>
+    <rect x="48" y="92" width="1100" height="146" fill="url(#screen)" stroke="#26324d" stroke-width="8"/>
   </g>
 
-  <text x="600" y="37" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="30" font-weight="900" text-anchor="middle">Rupayon Pokédex</text>
-
-  <rect x="34" y="82" width="1128" height="246" fill="#33415f" filter="url(#shadow)"/>
-  <rect x="48" y="96" width="1100" height="218" fill="url(#screen)" stroke="#29354f" stroke-width="8"/>
-
-  <g opacity="0.22" stroke="#247abc" stroke-width="3">
-    <path d="M48 148H1148M48 202H1148M48 256H1148"/>
-    <path d="M116 96V314M184 96V314M252 96V314M320 96V314M388 96V314M456 96V314M524 96V314M592 96V314M660 96V314M728 96V314M796 96V314M864 96V314M932 96V314M1000 96V314M1068 96V314"/>
-  </g>
+  <text x="600" y="36" fill="#ffffff" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="30" font-weight="900" text-anchor="middle">Rupayon Pokédex</text>
 
   <g shape-rendering="crispEdges">
-    <rect x="76" y="120" width="462" height="64" fill="#3c4669"/>
-    <rect x="92" y="132" width="430" height="40" fill="#eafcff" stroke="#6ecfff" stroke-width="4"/>
-    <rect x="76" y="210" width="462" height="74" fill="#eafcff" stroke="#3c4669" stroke-width="6"/>
+    <rect x="82" y="116" width="452" height="58" fill="#3d4668"/>
+    <rect x="96" y="128" width="424" height="34" fill="#f0fcff" stroke="#6ccff6" stroke-width="4"/>
+    <rect x="82" y="188" width="452" height="42" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
 
-    <rect x="588" y="120" width="322" height="64" fill="#3c4669"/>
-    <rect x="604" y="132" width="290" height="40" fill="#eafcff" stroke="#6ecfff" stroke-width="4"/>
-    <rect x="588" y="210" width="322" height="74" fill="#eafcff" stroke="#3c4669" stroke-width="6"/>
+    <rect x="590" y="116" width="426" height="58" fill="#3d4668"/>
+    <rect x="604" y="128" width="398" height="34" fill="#f0fcff" stroke="#6ccff6" stroke-width="4"/>
+    <rect x="590" y="188" width="426" height="42" fill="#f0fcff" stroke="#3d4668" stroke-width="5"/>
 
-    <rect x="958" y="118" width="112" height="58" fill="#3c4669"/>
-    <rect x="1078" y="118" width="64" height="58" fill="#d9f8ff" stroke="#3c4669" stroke-width="6"/>
-    <rect x="958" y="198" width="184" height="86" fill="#f8fcff" stroke="#3c4669" stroke-width="6"/>
-    <rect x="984" y="222" width="118" height="14" fill="#2f8cff"/>
-    <rect x="984" y="248" width="82" height="14" fill="#46d9f0"/>
+    <rect x="1040" y="116" width="96" height="114" fill="#f8fcff" stroke="#3d4668" stroke-width="6"/>
+    <rect x="1062" y="140" width="42" height="10" fill="#2f8cff"/>
+    <rect x="1062" y="164" width="56" height="10" fill="#46d9f0"/>
+    <rect x="1062" y="188" width="36" height="10" fill="#1f6fff"/>
   </g>
 
   <g font-family="Monaco, Consolas, 'Courier New', monospace" font-weight="900">
-    <text x="112" y="161" fill="#2d3748" font-size="28">Rupayon Haldar</text>
-    <text x="620" y="161" fill="#2d3748" font-size="25">Full-stack Developer</text>
-    <text x="980" y="153" fill="#111827" font-size="21">No.0304</text>
-    <text x="112" y="240" fill="#2d3748" font-size="22">TYPE</text>
-    <text x="214" y="240" fill="#0b61b2" font-size="22">React / TS / Python</text>
-    <text x="112" y="270" fill="#2d3748" font-size="22">FOCUS</text>
-    <text x="214" y="270" fill="#0b61b2" font-size="22">student tools + hardware</text>
-    <text x="620" y="240" fill="#2d3748" font-size="22">SEEN</text>
-    <text x="718" y="240" fill="#0b61b2" font-size="22">web apps</text>
-    <text x="620" y="270" fill="#2d3748" font-size="22">OWNED</text>
-    <text x="718" y="270" fill="#0b61b2" font-size="22">useful builds</text>
-  </g>
-
-  <g transform="translate(1098 136)" shape-rendering="crispEdges">
-    <rect x="0" y="0" width="8" height="8" fill="#2f8cff"/>
-    <rect x="8" y="0" width="8" height="8" fill="#2f8cff"/>
-    <rect x="16" y="8" width="8" height="8" fill="#2f8cff"/>
-    <rect x="8" y="16" width="8" height="8" fill="#2f8cff"/>
-    <rect x="0" y="16" width="8" height="8" fill="#2f8cff"/>
+    <text x="116" y="154" fill="#26324d" font-size="27">Rupayon Haldar</text>
+    <text x="624" y="154" fill="#26324d" font-size="25">Full-stack Dev</text>
+    <text x="116" y="216" fill="#26324d" font-size="21">React / TS / Python</text>
+    <text x="624" y="216" fill="#0b61b2" font-size="21">Student tools + hardware</text>
   </g>
 </svg>
