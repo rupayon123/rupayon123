@@ -13,13 +13,13 @@
 | Project | What It Shows |
 | --- | --- |
 | [PipHackLup](https://github.com/rupayon123/PipHackLup) | Hackathon operations Discord bot for onboarding, team management, queues, moderation, and organizer dashboards. |
-| [gta-free-stem-opportunities](https://github.com/rupayon123/gta-free-stem-opportunities) | Free STEM opportunity finder for GTA families, students, educators, and community hosts. |
-| [all-in-one-resume-builder-job-assist-applier](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
-| [arduino-blocks-lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
+| [STEM Finder](https://github.com/rupayon123/gta-free-stem-opportunities) | Free STEM opportunity finder for GTA families, students, educators, and community hosts. |
+| [Resume Builder / Job Assist](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
+| [Arduino Blocks Lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
 | [modelinfo-cli](https://github.com/rupayon123/modelinfo-cli) | CLI for inspecting ML checkpoints and estimating VRAM, multi-GPU splits, and vLLM capacity. |
-| [phishguard-ai](https://github.com/rupayon123/phishguard-ai) | Explainable offline phishing detection for URLs and email with JSON and SARIF output. |
-| [net-audit](https://github.com/rupayon123/net-audit) | SSH-based network security and compliance state auditor for config drift detection. |
-| [reconsentry](https://github.com/rupayon123/reconsentry) | Continuous attack-surface monitor for authorized targets, subdomains, hosts, and tech changes. |
+| [PhishGuard AI](https://github.com/rupayon123/phishguard-ai) | Explainable offline phishing detection for URLs and email with JSON and SARIF output. |
+| [Net Audit](https://github.com/rupayon123/net-audit) | SSH-based network security and compliance state auditor for config drift detection. |
+| [ReconSentry](https://github.com/rupayon123/reconsentry) | Continuous attack-surface monitor for authorized targets, subdomains, hosts, and tech changes. |
 
 ## Field Project Log
 
