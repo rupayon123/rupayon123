@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v11.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v12.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
 </div>
 
 ## Current Public Projects
