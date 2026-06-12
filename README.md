@@ -5,7 +5,7 @@
 ## Recruiter Data
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v8.png" alt="Rupayon's Pokedex themed recruiter Skill Dex with class and technology categories" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v9.png" alt="Rupayon's Pokedex themed recruiter Skill Dex with class and technology categories" width="100%" />
 </div>
 
 ## Current Public Projects
