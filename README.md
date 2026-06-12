@@ -40,16 +40,9 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
-## Trainer Notes
+## Field Project Log
 
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Computer Science student building ML/CV systems, student tools, hackathon infrastructure, and hardware-backed safety projects.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Research work spans telemetry, geofencing, cloud vehicle data, object detection, Arduino audio alerts, and real-world deployment logistics.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> I care about tools that make people faster: dashboards, bots, onboarding systems, STEM access platforms, and job/student workflow apps.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Also strong in STEM outreach: workshop facilitation, youth mentorship, inclusive program delivery, and explaining technical ideas without making everyone suffer.</p>
-
-## Applied Engineering Projects
-
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Selected research and field builds from SARIT / STEM work; not everything here has a public repo.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Selected resume / SARIT / STEM systems I could not fully publish as repos, summarized here so the work still shows up.</p>
 
 | Project | What It Did | Stack |
 | --- | --- | --- |
@@ -58,13 +51,6 @@
 | Radar Sound System | Arduino-based pedestrian proximity alert system with custom audio cues. | Python, C++, Arduino, DFPlayer Mini |
 | Onboard Cellular Communication | Vehicle telemetry uplink for real-time data exchange with a hosted server. | Python, JavaScript, C#, Hologram IoT, Rogers, Azure |
 | SARIT Research Ops | Coordinated applied research deployments and mentored students through technical project work. | Computer vision, cloud infrastructure, deployment planning, partner communication |
-
-## Current Quests
-
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Arduino block coding lab with Blockly and Arduino C++ generation.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Hackathon Discord systems for onboarding, teams, queues, moderation, and dashboards.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Resume, ATS, cover-letter, job tracking, and student application tools.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Security, model-info, and infrastructure utilities that turn annoying audits into repeatable checks.</p>
 
 ## Public Builds
 
@@ -78,3 +64,15 @@
 | [phishguard-ai](https://github.com/rupayon123/phishguard-ai) | Explainable offline phishing detection for URLs and email with JSON and SARIF output. |
 | [net-audit](https://github.com/rupayon123/net-audit) | SSH-based network security and compliance state auditor for config drift detection. |
 | [reconsentry](https://github.com/rupayon123/reconsentry) | Continuous attack-surface monitor for authorized targets, subdomains, hosts, and tech changes. |
+
+## Active Builds
+
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Arduino block coding lab with Blockly and Arduino C++ generation.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Hackathon Discord systems for onboarding, teams, queues, moderation, and dashboards.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Resume, ATS, cover-letter, job tracking, and student application tools.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Security, model-info, and infrastructure utilities that turn annoying audits into repeatable checks.</p>
+
+## Feedback Wanted
+
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Feedback is welcome on project ideas, UI polish, architecture, docs, and whether the tools actually explain themselves fast enough.</p>
+<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Especially interested in notes on ML/CV pipelines, student-tool UX, hardware workflows, and security/dev-tool ergonomics.</p>
