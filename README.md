@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-pokedex-hero.gif?v=pokedex-stats-v2" alt="Rupayon's Pokedex profile banner with Pokemon team row" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-pokedex-hero.gif?v=pokedex-swift-v1" alt="Rupayon's Pokedex profile banner with Pokemon team row" width="100%" />
 </div>
 
 <div align="center">
