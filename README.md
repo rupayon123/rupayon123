@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v12.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
+  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v13.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
 </div>
 
 ## Current Public Projects
@@ -12,7 +12,7 @@
 | --- | --- |
 | [PipHackLup](https://github.com/rupayon123/PipHackLup) | Hackathon operations Discord bot for onboarding, team management, queues, moderation, and organizer dashboards. |
 | [Arduino Blocks Lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
-| [STEM Finder](https://github.com/rupayon123/gta-free-stem-opportunities) | Free STEM opportunity finder for GTA families, students, educators, and community hosts. |
+| [STEM Finder](https://github.com/rupayon123/gta-free-stem-opportunities) | GTA free STEM opportunity finder for families, students, educators, and community hosts, now extending into Swift/iOS app workflows. |
 | [Resume Builder / Job Assist](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
 
 ## Field Project Log
