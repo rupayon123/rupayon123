@@ -6,6 +6,14 @@
   <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v13.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
 </div>
 
+## Current Focus
+
+- STEM opportunity discovery tools for students, families, educators, and community hosts.
+- Student event and campus apps with clearer setup, demo, and release workflows.
+- Arduino, hardware, schematics, and validation docs that make builds repeatable.
+- Cybersecurity, recon, phishing-defense, AI-agent, CLI, and developer-tool experiments.
+- Resume, job-search, and profile-polish tooling with privacy-aware defaults.
+
 ## Current Public Projects
 
 | Project | What It Shows |
