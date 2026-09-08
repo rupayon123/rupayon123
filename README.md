@@ -20,6 +20,8 @@ My work connects technical development with the people using it: vehicle-safety 
 
 ### SARIT: from research intern to research lead
 
+SARIT is professional experience. Project files and further implementation details are covered by NDA and are not shared here. The summaries below describe the high-level work and technologies I used.
+
 I started with Python, embedded systems, sensors, and vehicle-integration research, then moved into leading technical development and coordinating research deployments.
 
 - **Computer vision:** Developed and tested pedestrian, lane, and obstacle detection using Python, OpenCV, NumPy, Raspberry Pi, NVIDIA Jetson Orin, OAK-D, and YOLOv9.
@@ -27,6 +29,10 @@ I started with Python, embedded systems, sensors, and vehicle-integration resear
 - **Pedestrian alerts:** Developed an Arduino-based proximity-alert system with DFPlayer Mini and custom audio cues.
 - **Field delivery:** Supported deployments with Toronto Zoo, Ontario Place, and Enercare Centre through technical troubleshooting, partner coordination, documentation, and safety readiness.
 - **Technical leadership:** Mentored students through hands-on research, testing, documentation, and presentations.
+
+### Nunet: System Architect
+
+**Jun 2026 - Aug 2026.** My duties, project work, and implementation details are covered by NDA.
 
 ### Technical communication and program delivery
 
