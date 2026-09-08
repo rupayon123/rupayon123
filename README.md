@@ -11,7 +11,7 @@
 - Building on my SARIT experience with computer vision, telemetry, GPS, and embedded systems for vehicle safety.
 - Developing GTA Free STEM for iOS, Android, and the web to make free STEM programs easier to find.
 - Helping students learn engineering through hands-on Arduino, electronics, and prototyping, drawing on my teaching and research mentorship.
-- Using Codex and AI coding tools to plan features, debug problems, review code, and document technical decisions.
+- Using Codex, Claude, Cursor, and Gemini to plan features, debug problems, review code, and document technical decisions.
 - Creating reusable AI instructions and GitHub workflows for development, testing, and release preparation across my apps.
 
 ## Field Project Log
