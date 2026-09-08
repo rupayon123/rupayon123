@@ -18,10 +18,9 @@
 
 | Project | What It Shows |
 | --- | --- |
-| [PipHackLup](https://github.com/rupayon123/PipHackLup) | Hackathon operations Discord bot for onboarding, team management, queues, moderation, and organizer dashboards. |
-| [Arduino Blocks Lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
-| [STEM Finder](https://github.com/rupayon123/gta-free-stem-opportunities) | GTA free STEM opportunity finder for families, students, educators, and community hosts, now extending into Swift/iOS app workflows. |
-| [Resume Builder / Job Assist](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
+| [GTA Free STEM - iOS](https://github.com/rupayon123/gta-free-stem-ios) | Native iOS app built with Swift and SwiftUI for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
+| [GTA Free STEM - Android](https://github.com/rupayon123/gta-free-stem-android) | Native Android app built with Kotlin and Jetpack Compose for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
+| [GTA Free STEM - Web](https://github.com/rupayon123/gta-free-stem-opportunities) | Website built with Next.js, React, and TypeScript, with filtered search and map/list browsing for free STEM opportunities. **Closed public beta testing.** |
 
 ## Field Project Log
 
