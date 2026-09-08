@@ -8,11 +8,11 @@
 
 ## Current Focus
 
-- STEM opportunity discovery tools for students, families, educators, and community hosts.
-- Student event and campus apps with clearer setup, demo, and release workflows.
-- Arduino, hardware, schematics, and validation docs that make builds repeatable.
-- Cybersecurity, recon, phishing-defense, AI-agent, CLI, and developer-tool experiments.
-- Resume, job-search, and profile-polish tooling with privacy-aware defaults.
+- Building on my SARIT experience with computer vision, telemetry, GPS, and embedded systems for vehicle safety.
+- Developing GTA Free STEM for iOS, Android, and the web to make free STEM programs easier to find.
+- Helping students learn engineering through hands-on Arduino, electronics, and prototyping, drawing on my teaching and research mentorship.
+- Using Codex and AI coding tools to plan features, debug problems, review code, and document technical decisions.
+- Creating reusable AI instructions and GitHub workflows for development, testing, and release preparation across my apps.
 
 ## Field Project Log
 
