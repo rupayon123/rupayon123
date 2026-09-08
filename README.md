@@ -14,14 +14,6 @@
 - Cybersecurity, recon, phishing-defense, AI-agent, CLI, and developer-tool experiments.
 - Resume, job-search, and profile-polish tooling with privacy-aware defaults.
 
-## Current Public Projects
-
-| Project | What It Shows |
-| --- | --- |
-| [GTA Free STEM - iOS](https://github.com/rupayon123/gta-free-stem-ios) | Native iOS app built with Swift and SwiftUI for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
-| [GTA Free STEM - Android](https://github.com/rupayon123/gta-free-stem-android) | Native Android app built with Kotlin and Jetpack Compose for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
-| [GTA Free STEM - Web](https://github.com/rupayon123/gta-free-stem-opportunities) | Website built with Next.js, React, and TypeScript, with filtered search and map/list browsing for free STEM opportunities. **Closed public beta testing.** |
-
 ## Field Project Log
 
 <p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Selected resume / SARIT / STEM systems I could not fully publish as repos because of field, partner, and NDA constraints.</p>
@@ -33,6 +25,14 @@
 | Radar Sound System | Arduino-based pedestrian proximity alert system with custom audio cues. | Python, C++, Arduino, DFPlayer Mini |
 | Onboard Cellular Communication | Vehicle telemetry uplink for real-time data exchange with a hosted server. | Python, JavaScript, C#, Hologram IoT, Rogers, Azure |
 | SARIT Research Ops | Coordinated applied research deployments and mentored students through technical project work. | Computer vision, cloud infrastructure, deployment planning, partner communication |
+
+## Current Public Projects
+
+| Project | What It Shows |
+| --- | --- |
+| [GTA Free STEM - iOS](https://github.com/rupayon123/gta-free-stem-ios) | Native iOS app built with Swift and SwiftUI for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
+| [GTA Free STEM - Android](https://github.com/rupayon123/gta-free-stem-android) | Native Android app built with Kotlin and Jetpack Compose for discovering free STEM opportunities, with local saves and offline access. **Closed public beta testing.** |
+| [GTA Free STEM - Web](https://github.com/rupayon123/gta-free-stem-opportunities) | Website built with Next.js, React, and TypeScript, with filtered search and map/list browsing for free STEM opportunities. **Closed public beta testing.** |
 
 ## Feedback Wanted
 
