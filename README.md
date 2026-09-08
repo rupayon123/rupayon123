@@ -1,41 +1,58 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-pokedex-hero.gif?v=pokedex-swift-v1" alt="Rupayon's Pokedex profile banner with Pokemon team row" width="100%" />
-</div>
+# Rupayon Haldar
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/rupayon-trainer-data-v13.png" alt="Rupayon's Pokedex themed Tech Dex with class and technology categories" width="100%" />
-</div>
+**Applied vehicle systems, computer vision, and mobile software**
 
-## Current Focus
+I am an actively enrolled Computer Science student at York University and a seasonal Customer Experience Specialist at Tesla. At SARIT, I progressed from Research Assistant Intern to a full-time Senior Research Lead, working across software, hardware, vehicle integration, and field deployments.
 
-- STEM opportunity discovery tools for students, families, educators, and community hosts.
-- Student event and campus apps with clearer setup, demo, and release workflows.
-- Arduino, hardware, schematics, and validation docs that make builds repeatable.
-- Cybersecurity, recon, phishing-defense, AI-agent, CLI, and developer-tool experiments.
-- Resume, job-search, and profile-polish tooling with privacy-aware defaults.
+My work connects technical development with the people using it: vehicle-safety research, customer-facing technology, and free STEM opportunity discovery.
 
-## Current Public Projects
+[LinkedIn](https://www.linkedin.com/in/rupayonhaldar/) · [GTA Free STEM](https://gta-free-stem.vercel.app)
 
-| Project | What It Shows |
-| --- | --- |
-| [PipHackLup](https://github.com/rupayon123/PipHackLup) | Hackathon operations Discord bot for onboarding, team management, queues, moderation, and organizer dashboards. |
-| [Arduino Blocks Lab](https://github.com/rupayon123/arduino-blocks-lab) | Open-source Arduino block coding lab with Blockly, Arduino C++ generation, and upload support. |
-| [STEM Finder](https://github.com/rupayon123/gta-free-stem-opportunities) | GTA free STEM opportunity finder for families, students, educators, and community hosts, now extending into Swift/iOS app workflows. |
-| [Resume Builder / Job Assist](https://github.com/rupayon123/all-in-one-resume-builder-job-assist-applier) | Resume, ATS, cover letter, job tracking, and job application workspace. |
+## Experience and progression
 
-## Field Project Log
-
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Selected resume / SARIT / STEM systems I could not fully publish as repos because of field, partner, and NDA constraints.</p>
-
-| Project | What It Did | Stack |
+| Organization | Role | Dates |
 | --- | --- | --- |
-| ODS | Real-time object detection pipeline for pedestrians, lanes, and obstacles at 30 FPS. | Python, JavaScript, C++, Raspberry Pi, OpenCV, NumPy, Jetson Orin, OAK-D, YOLOv9 |
-| TGS | Telemetry and geofencing system supporting remote shutdown and operational vehicle safety. | Python, Raspberry Pi, GPS modules, Tracki, Comodule |
-| Radar Sound System | Arduino-based pedestrian proximity alert system with custom audio cues. | Python, C++, Arduino, DFPlayer Mini |
-| Onboard Cellular Communication | Vehicle telemetry uplink for real-time data exchange with a hosted server. | Python, JavaScript, C#, Hologram IoT, Rogers, Azure |
-| SARIT Research Ops | Coordinated applied research deployments and mentored students through technical project work. | Computer vision, cloud infrastructure, deployment planning, partner communication |
+| Tesla | Customer Experience Specialist, seasonal | Aug 2026 - Present |
+| Nunet | System Architect | Jun 2026 - Aug 2026 |
+| SARIT at York University | Senior Research Lead, full-time contract | May 2022 - Oct 2025 |
+| SARIT at York University | Research Assistant Intern | May 2021 - May 2022 |
+| k2i Academy, Lassonde School of Engineering | Program Assistant | Oct 2025 - Apr 2026 |
 
-## Feedback Wanted
+### SARIT: from research intern to research lead
 
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Feedback is welcome on project ideas, UI polish, architecture, docs, and whether the tools actually explain themselves fast enough.</p>
-<p><img src="https://raw.githubusercontent.com/rupayon123/rupayon123/main/assets/pokedex/pokeball.svg" alt="" height="16" /> Especially interested in notes on ML/CV pipelines, student-tool UX, hardware workflows, and security/dev-tool ergonomics.</p>
+I started with Python, embedded systems, sensors, and vehicle-integration research, then moved into leading technical development and coordinating research deployments.
+
+- **Computer vision:** Developed and tested pedestrian, lane, and obstacle detection using Python, OpenCV, NumPy, Raspberry Pi, NVIDIA Jetson Orin, OAK-D, and YOLOv9.
+- **Telemetry and vehicle integration:** Worked on GPS, geofencing, remote shutdown, and cellular data exchange using Raspberry Pi, Tracki, Comodule, Hologram IoT, and Azure.
+- **Pedestrian alerts:** Developed an Arduino-based proximity-alert system with DFPlayer Mini and custom audio cues.
+- **Field delivery:** Supported deployments with Toronto Zoo, Ontario Place, and Enercare Centre through technical troubleshooting, partner coordination, documentation, and safety readiness.
+- **Technical leadership:** Mentored students through hands-on research, testing, documentation, and presentations.
+
+### Technical communication and program delivery
+
+At k2i Academy, I supported STEM programs for more than 100 students across GTA schools and took on planning and session leadership for Markham Library programming. My experience also includes Head Engineering Instructor work, product education and troubleshooting at Apple, and teaching at Kumon and the Toronto District School Board.
+
+## Featured personal project
+
+### GTA Free STEM | Web, iOS, and Android
+
+I am building GTA Free STEM to help students, families, and educators find free STEM programs, workshops, mentorship, and other learning opportunities across the Greater Toronto Area.
+
+| Platform | Implementation | Source |
+| --- | --- | --- |
+| Web | Next.js, React, and TypeScript; filtered search, map/list browsing, and a shared opportunity feed | [Website repository](https://github.com/rupayon123/gta-free-stem-opportunities) |
+| iOS | Swift and SwiftUI; native discovery, local saves, and cached/offline feed access | [iOS repository](https://github.com/rupayon123/gta-free-stem-ios) |
+| Android | Kotlin and Jetpack Compose; native discovery, local saves, and cached/offline feed access | [Android repository](https://github.com/rupayon123/gta-free-stem-android) |
+
+The public web beta is available at [gta-free-stem.vercel.app](https://gta-free-stem.vercel.app). The mobile repositories document their development and release-candidate status.
+
+The engineering work includes source-backed data updates, input validation, local caching, accessible interfaces, and keeping the product useful within a zero-dollar operating budget.
+
+## Skills in practice
+
+- **Python and computer vision:** Applied to SARIT detection, sensor, and telemetry work.
+- **Embedded and connected systems:** Raspberry Pi, Jetson Orin, OAK-D, Arduino, GPS, and cellular communication.
+- **Web and mobile development:** TypeScript, React, Next.js, SwiftUI, and Jetpack Compose through GTA Free STEM.
+- **Delivery and communication:** Research deployments, student mentorship, program planning, product education, and technical troubleshooting.
+
+I am interested in internships involving software, vehicle systems, validation, mobile products, and technical project delivery.
